@@ -1,0 +1,19 @@
+<Alloy>
+	<Window >
+		<Widget id="header" src="header"/>
+		<View backgroundColor="red" height="50">
+			<Label onClick="gotoNext">Next</Label>
+		</View>
+	</Window>
+</Alloy>
+
+<!-- <Alloy>
+	<Window class="container" layout="vertical">
+		<Require type="widget" src="co.mobiledatasystems.customEditableTable" id="table1"></Require>
+		<Button id="btnEdit" title="Allow Editing" onClick="btnEdit_click_Event"></Button>
+
+		<!-- <View backgroundColor="red" height="50">
+		<Label onClick="gotoBack">back</Label></View>
+		<Label id="label" onClick="doClick">Hello, World</Label>
+	</Window>
+</Alloy> -->

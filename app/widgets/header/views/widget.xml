@@ -1,0 +1,6 @@
+<Alloy>
+    <View backgroundColor="blue" height="70" top="20">
+        <Label id="back"></Label>
+        <Label id="tital"></Label>
+    </View>
+</Alloy>

@@ -1,0 +1,8 @@
+<Alloy>
+	<Window backgroundColor="gray">
+		<Widget id="header" src="header"/>
+		<View backgroundColor="red" height="50" top="90">
+			<Label>Nextdfdfdf</Label>
+		</View>
+	</Window>
+</Alloy>

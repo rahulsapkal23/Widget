@@ -1,0 +1,5 @@
+<Alloy>
+    <View backgroundColor="blue" height="100" top="20"></View>
+    <View backgroundColor="green" height="100" top="120"></View>
+    <View backgroundColor="purple" height="100" top="220"></View>
+</Alloy>
