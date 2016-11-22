@@ -1,8 +1,8 @@
 <Alloy>
-	<Window backgroundColor="gray">
+	<Window id="nextWindow" backgroundColor="gray">
 		<Widget id="header" src="header"/>
-		<View backgroundColor="red" height="50" top="90">
-			<Label>Nextdfdfdf</Label>
+		<View id="nextView" backgroundColor="red" height="50" top="90">
+			<Label>Welcome In Second Window</Label>
 		</View>
 	</Window>
 </Alloy>
